@@ -2,7 +2,9 @@
 
 'use strict';
 
+global._hexo = hexo;
 var renderer = require('./lib/renderer');
+global._hexo = undefined;
 
 hexo.extend.renderer.register('md', 'html', renderer);
 hexo.extend.renderer.register('markdown', 'html', renderer);

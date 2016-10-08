@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-moemark",
-  "version": "0.2.12",
+  "version": "0.3.0",
   "description": "Markdown renderer plugin for Hexo",
   "main": "index",
   "directories": {
@@ -16,6 +16,11 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw) && Menci <huanghaorui301@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "moemark-renderer": "^1.1.2"
+    "hexo-util": "^0.6.0",
+    "katex": "^0.6.0",
+    "mathjax-node": "^0.5.1",
+    "moemark": "^0.3.8",
+    "object-assign": "^4.1.0",
+    "strip-indent": "^2.0.0"
   }
 }
