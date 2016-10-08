@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-moemark",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Markdown renderer plugin for Hexo",
   "main": "index",
   "directories": {
@@ -19,7 +19,7 @@
     "hexo-util": "^0.6.0",
     "katex": "^0.6.0",
     "mathjax-node": "^0.5.1",
-    "moemark": "^0.3.8",
+    "moemark": "^0.3.9",
     "object-assign": "^4.1.0",
     "strip-indent": "^2.0.0"
   }
