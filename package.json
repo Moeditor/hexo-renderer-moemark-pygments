@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-moemark-pygments",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Markdown renderer plugin for Hexo, highlight with pygments",
   "main": "index",
   "directories": {
@@ -20,7 +20,7 @@
     "hexo-util": "^0.6.0",
     "katex": "^0.6.0",
     "mathjax-node": "^0.5.1",
-    "moemark-renderer": "^1.2.1",
+    "moemark-renderer": "^1.2.2",
     "object-assign": "^4.1.0",
     "pygmentize-bundled-cached": "^1.1.0",
     "strip-indent": "^2.0.0"
